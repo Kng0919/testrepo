@@ -2,4 +2,4 @@ def findmax(x,y):
     return max(x,y)
 
 
-print(findmax(1,2))
+print(findmax(1,5))
